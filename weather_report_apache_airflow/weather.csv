@@ -1,0 +1,13 @@
+,Names,Max_Temp,Min_Temp,Humidity,Weather,WindSpeed
+0,Innichen,23.0,23.0,100,overcast clouds,2.3
+1,London,53.35,49.75,80,light rain,33.38
+2,Jamaica,74.41,74.3,52,scattered clouds,11.74
+3,Haiti,83.19,83.19,57,clear sky,1.99
+4,Montserrat,77.9,77.9,74,scattered clouds,13.8
+5,Barbados,83.71,83.71,74,light rain,17.27
+6,Cuba,74.16,74.16,49,moderate rain,11.56
+7,Dominican Republic,66.22,66.22,51,clear sky,4.29
+8,Saint Lucia,71.58,66.09,87,scattered clouds,8.05
+9,Antigua and Barbuda,81.84,81.79,81,scattered clouds,11.5
+10,Belize,79.12,79.12,62,broken clouds,5.99
+11,Aruba,85.73,85.73,66,scattered clouds,12.66
