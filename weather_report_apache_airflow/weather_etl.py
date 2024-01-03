@@ -5,7 +5,7 @@ from datetime import datetime
 
 def run_weather_etl():
 
-    API_key = '1c3dbbefc99fa71cbc38ab7cfbb885c0'
+    API_key = ''
 
     countries = ['India','London','Jamaica', 'Haiti', 'Montserrat', 'Barbados', 'Cuba', 'Dominican Republic', 'Saint Lucia', 'Antigua and Barbuda', 'Belize', 'Aruba']
 
