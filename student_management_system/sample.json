@@ -1,0 +1,32 @@
+{
+    "101": {
+        "Name": "Alice Johnson",
+        "Age": 21,
+        "Course": "Computer Science",
+        "Marks": 85.5
+    },
+    "102": {
+        "Name": "Bob Smith",
+        "Age": 22,
+        "Course": "Data Science",
+        "Marks": 78.0
+    },
+    "103": {
+        "Name": "Charlie Brown",
+        "Age": 20,
+        "Course": "Computer Science",
+        "Marks": 90.2
+    },
+    "104": {
+        "Name": "David Lee",
+        "Age": 23,
+        "Course": "Cybersecurity",
+        "Marks": 88.7
+    },
+    "106": {
+        "Name": "Bharath",
+        "Age": 25,
+        "Course": "Data Science",
+        "Marks": 87.2
+    }
+}
