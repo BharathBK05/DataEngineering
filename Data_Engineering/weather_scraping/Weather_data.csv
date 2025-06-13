@@ -1,0 +1,38 @@
+City,Temperature,Condition,Feels Like,Forecast,Wind
+Bengaluru,22°C,Partly cloudy.,21,27 / 22,19 km/h ↑ from Southwest
+Bhopal,34°C,Passing clouds.,37,38 / 26,9 km/h ↑ from North
+Bhubaneswar,29°C,Fog.,36,36 / 28,No wind
+Chandigarh,32°C,Passing clouds.,33,42 / 30,17 km/h ↑ from Northeast
+Chennai,29°C,Partly cloudy.,35,35 / 29,15 km/h ↑ from Southwest
+Coimbatore,24°C,Fog.,24,26 / 23,33 km/h ↑ from Southwest
+Delhi,34°C,Haze.,43,43 / 33,9 km/h ↑ from Northeast
+Faridabad,33°C,Passing clouds.,38,44 / 31,11 km/h ↑ from East
+Ghaziabad,34°C,Haze.,43,43 / 32,9 km/h ↑ from Northeast
+Guwahati,30°C,Fog.,40,35 / 26,No wind
+Hyderabad,26°C,Fog.,28,32 / 25,4 km/h ↑ from North
+Indore,30°C,Thunderstorms. Passing clouds.,34,34 / 26,7 km/h ↑ from Northwest
+Jaipur,34°C,Passing clouds.,37,43 / 32,11 km/h ↑ from South
+Jamshedpur,30°C,Fog.,36,40 / 27,4 km/h ↑ from East
+Kanpur,33°C,Passing clouds.,41,43 / 32,19 km/h ↑ from Southeast
+Kochi,26°C,Fog.,28,28 / 26,N/A
+Kolkata,30°C,Passing clouds.,39,35 / 28,9 km/h ↑ from South
+Lucknow,33°C,Passing clouds.,41,41 / 30,19 km/h ↑ from Southeast
+Ludhiana,33°C,Passing clouds.,38,45 / 31,6 km/h ↑ from East
+Madurai,30°C,Passing clouds.,34,32 / 26,9 km/h ↑ from Southwest
+Mumbai,28°C,Overcast.,34,30 / 26,4 km/h ↑ from Northwest
+Nagpur,31°C,Passing clouds.,35,38 / 28,6 km/h ↑ from Southwest
+Nashik,30°C,Passing clouds.,38,29 / 24,No wind
+Noida,33°C,Passing clouds.,38,44 / 31,11 km/h ↑ from East
+Patna,33°C,Passing clouds.,42,42 / 31,9 km/h ↑ from Northeast
+Pune,25°C,Thundershowers. Overcast.,25,29 / 24,No wind
+Raipur,32°C,Passing clouds.,41,37 / 28,4 km/h ↑ from Northwest
+Ranchi,30°C,Haze.,35,36 / 25,No wind
+Srinagar,24°C,Overcast.,25,33 / 13,7 km/h ↑ from Northeast
+Surat,33°C,Passing clouds.,37,35 / 29,15 km/h ↑ from Southwest
+Thane,29°C,Thunderstorms. Partly cloudy.,35,32 / 26,No wind
+Thiruvananthapuram,25°C,Rain. Mostly cloudy.,26,28 / 26,19 km/h ↑ from Northwest
+Udaipur,37°C,Passing clouds.,43,38 / 26,6 km/h ↑ from Northwest
+Vadodara,37°C,Passing clouds.,43,39 / 30,6 km/h ↑ from Northwest
+Varanasi,34°C,Passing clouds.,42,44 / 31,15 km/h ↑ from Northeast
+Vijayawada,30°C,Passing clouds.,38,36 / 27,9 km/h ↑ from South
+Visakhapatnam,30°C,Passing clouds.,39,34 / 28,7 km/h ↑ from Southwest
